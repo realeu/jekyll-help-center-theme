@@ -21,7 +21,7 @@ language:  "en"
 markdown: kramdown
 permalink: /:title/
 gems: [jekyll-paginate]
-paginate: 5
+paginate: 2
 
 # Plugins
 plugins_dir:
